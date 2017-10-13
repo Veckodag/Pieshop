@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PieShop", "PieShop\PieShop.csproj", "{EB15BD13-D7F2-49DC-B623-BBC638D85401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB15BD13-D7F2-49DC-B623-BBC638D85401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB15BD13-D7F2-49DC-B623-BBC638D85401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB15BD13-D7F2-49DC-B623-BBC638D85401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB15BD13-D7F2-49DC-B623-BBC638D85401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34880679-88D4-4A6C-8F3A-F33554D5A1E5}
+	EndGlobalSection
+EndGlobal
