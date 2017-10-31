@@ -23,8 +23,7 @@ namespace PieShop.Controllers
     public ViewResult List()
     {
       PiesListViewModel piesListViewModel = new PiesListViewModel();
-      piesListViewModel.Pies = _pieRepository.Pies;
-      piesListViewModel.CurrentCategory = "Cheese cakes";
+      piesListViewModel.Pies = _pieRepository.Pies;      
       return View(piesListViewModel);
     }
     // GET: /<controller>/

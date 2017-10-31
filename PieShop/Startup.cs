@@ -46,6 +46,8 @@ namespace PieShop
       app.UseStatusCodePages();
       app.UseStaticFiles();
       app.UseMvcWithDefaultRoute();
+
+      DbInitalizer.Seed(app);
     }
   }
 }
